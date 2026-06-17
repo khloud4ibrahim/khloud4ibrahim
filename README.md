@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Khloud Ibrahim
 
-I'm a third-year Artificial Intelligence student passionate about Machine Learning . I enjoy learning new technologies and building projects that help me improve my practical skills.
+I'm a third-year student passionate about Artificial Intelligence . I enjoy learning new technologies and building projects that help me improve my practical skills.
 
 ## 🎓 Education
-- Third-year Artificial Intelligence Student
+- Third-year Student at EELU
 
 ## 🚀 Currently Learning
 - Machine Learning
