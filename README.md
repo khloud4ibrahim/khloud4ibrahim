@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there 👋, I'm Khloud Ibrahim
 
-<!--
-**khloud4ibrahim/khloud4ibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a third-year Artificial Intelligence student passionate about Machine Learning . I enjoy learning new technologies and building projects that help me improve my practical skills.
 
-Here are some ideas to get you started:
+## 🎓 Education
+- Third-year Artificial Intelligence Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Learning
+- Machine Learning
+- Deep Learning
+- Computer vision
+- NLP
+- Python
+
+## 💻 Programming Languages
+- Python
+- SQL
+
+## 🛠️ Tools & Technologies
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- sklearn
+- TensorFlow
+- PyTorch
+- Git
+- GitHub
+
+## 📚 Interests
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Problem Solving
+
+## 📫 Connect with me
+- LinkedIn: *(https://www.linkedin.com/in/khloud-ibrahim-45a851324/)*
+- Email: *(khloud290405@gmail.com)*
